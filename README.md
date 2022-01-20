@@ -1,7 +1,7 @@
 ## Olá! Seja bem vindo ao meu perfil, sou Thiago Fernando!
 
 - 🔭 Hoje trabalho com back-end ,front-end, mobile
-- 🌱 Evolução continua em Dart/Flutter
+- 🌱 Evolução continua em Dart/Flutter e C Sharp
 - 😄 Pronouns: ele/dele
 
 <div>
