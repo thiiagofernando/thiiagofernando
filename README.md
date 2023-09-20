@@ -1,6 +1,6 @@
 ## Olá! Seja bem vindo ao meu perfil, sou Thiago Fernando!
 
-- 🔭 Hoje trabalho com back-end ,front-end, mobile
+- 🔭 Desenvolvedor de software Mobile / Back-end
 - 🌱 Evolução continua em Dart/Flutter e C Sharp .NET
 - 😄 Pronouns: ele/dele
 
