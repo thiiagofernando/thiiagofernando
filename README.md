@@ -2,11 +2,10 @@
 
 - 🔭 Desenvolvedor de software Mobile / Back-end
 - 🌱 Evolução continua em Dart/Flutter e C Sharp .NET
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/thiiagofernando"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiiagofernando&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=thiiagofernando&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiiagofernando&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
@@ -16,7 +15,6 @@
   <img align="center" alt="thiiagofernando-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="thiiagofernando-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="thiiagofernando-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="thiiagofernando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="thiiagofernando-Jenkins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
