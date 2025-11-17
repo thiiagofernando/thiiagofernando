@@ -1,7 +1,7 @@
 ## Olá! Seja bem vindo ao meu perfil, sou Thiago Fernando!
 
 - 🔭 Desenvolvedor de software Mobile / Back-end
-- 🌱 Evolução continua em  C Sharp .NET / React
+- 🌱 Evolução continua em  C Sharp .NET / React / Flutter
 
 <div>
   <a href="https://github.com/thiiagofernando"></a>
